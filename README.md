@@ -39,8 +39,6 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 ## License
 This project is open source and available under the MIT License.
 
-## Acknowledgements
-Special thanks to Shubham Santosh for the initial concept and implementation of the Face Tracker using OpenCV and Arduino.
 
 ## Contact
 For any queries or issues, please open an issue on the GitHub repository or contact the maintainers directly.
